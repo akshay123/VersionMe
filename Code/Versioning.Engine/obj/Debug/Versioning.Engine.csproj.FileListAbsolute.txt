@@ -1,0 +1,4 @@
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.Engine\bin\Debug\Versioning.Engine.dll
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.Engine\bin\Debug\Versioning.Engine.pdb
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.Engine\obj\Debug\Versioning.Engine.dll
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.Engine\obj\Debug\Versioning.Engine.pdb

@@ -1,0 +1,7 @@
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.DTO\bin\Debug\Versioning.Objects.dll
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.DTO\bin\Debug\Versioning.Objects.pdb
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.DTO\obj\Debug\Versioning.Objects.csprojResolveAssemblyReference.cache
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.DTO\obj\Debug\Versioning.Objects.dll
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.DTO\obj\Debug\Versioning.Objects.pdb
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.DTO\bin\Debug\Versioning.Engine.dll
+C:\Prototype\VersionChanger\Versioning.DTO\Versioning.DTO\bin\Debug\Versioning.Engine.pdb
