@@ -1,0 +1,66 @@
+PwCIAS GitHub Account
+Terms of Use
+
+Version 1.0, 24 September 2013
+
+Our Global Technology Mission
+Our PwC IAS global technology mission extends beyond delivering market leading solutions.  
+
+Our goal is to strengthen the global network by:
+•	supporting and improving our global service delivery to clients and customers through the use of shared solutions;
+•	providing tools and technologies supporting global and local efficiency efforts and user experience goals; 
+•	creating global and local technology solutions that aid in achieving the above objectives;
+•	creating new sharing channels to improve the network at little or no cost; and 
+•	reducing the effort required to introduce market leading technology solutions across our global practice
+
+In support of our global technology mission, we have established a PwCIAS GitHub Account which will hold all program source code, tools and documentation associated with our global IAS practice.  This is designed to be a collaborative environment that will create:
+•	transparency in technology efforts; 
+•	broader awareness of global and local technology efforts; 
+•	more reuse of solutions across our global practice
+•	higher quality, lower cost technology in each of our territories
+
+Access to Repository
+In support of building our PwC IAS Global Network, an open repository of program source code, documentation, and tools are available for use by approved PwC employees from PwC Member Firms:
+READ-WRITE access to one or more PwCIAS GitHub shared repositories (Repository/Repositories); and/or 
+READ-ONLY access to select PwCIAS GitHub Global Repositories (Global Repositories) such as Tiger, myTaxes or myVisas; 
+** contact us separately for approval of 3rd party consultants/contractors 
+
+You may use the Repositories’ contents anywhere INSIDE PwC. Sharing of repository contents with 3rd party consultants / contractors must be separately pre-approved in writing and meet additional intellectual property safeguards.
+There is no charge for the use of the Repositories' contents, PROVIDED...
+i.	You agree to participate according to PwC's Global Code of Conduct.
+ii.	You agree that anything you create or alter (New Work) that uses or is based on the contents of one of the Repositories, MUST be contributed back to and become a Repository. 
+iii.	New Work is a Repository and, therefore, will be subjected to and have the same protections afforded by all other repositories covered by this agreement.
+
+Answering some questions…
+--------------------------
+What are the obligations for New Work?
+
+Support the growth of the network.  While another territory or member firm may use your New Work freely; you are NOT obligated to enhance or extend your New Work. You are also NOT obligated to install, host or support your New Work.  You may contract with another member firm to enhance the New Work you created using whatever pricing model you agree with the other firm.  And while you may NOT charge for the use (license) of the Work; you are entitled to charge for hosting or supporting the New Work if requested to do so.
+
+Who "owns" the New Work?
+
+Intellectual property rights are retained by the territory that created the New Work.  You determine any release schedule, prioritization of enhancements, and any other changes to the New Work you created.  Globally we have provided a means to store the source code and documentation (of the New Work) in a globally accessible, version controlled repository.  This allows Member Firms to find the New Work and leverage it to improve our global network with little or no cost.  You may choose to accept or reject "pull requests".  A "pull request" is defined on GitHub (https://help.github.com/articles/using-pull-requests). 
+
+What if we want to use someone else's New Work?
+
+We want to encourage sharing, as well as extending and improving solutions used by our global network.  Therefore, you are entitled to "fork" (i.e. copy) a Repository using a private "fork" ONLY. In order to protect intellectual property interests, absolutely no public shared forks will be allowed or tolerated.  You may, through your own efforts, extend or improve an existing Repository to meet your needs. There are several ways to extend or improve:
+a)	you may make changes and submit a "pull request" to the Repository owner;
+b)	you may create an enhancement request in the Repository; 
+c)	you may contract with the territory primarily responsible for the Repository; 
+d)	you may create your own New Work
+** YOU = staff from your PwC member firm or a pre-approved 3rd party contractor where appropriate legal protection is in place.
+
+Can we use the PwCIAS GitHub account as our Source Code Management tool?
+Can we use the PwCIAS GitHub account for a complete new project with no association to any existing Repository?
+
+YES, absolutely. Let us know and we will create a Repository for you.  We want to promote sharing and improving our global network.
+
+What if we don’t abide by the terms described here?
+
+We hope this is never found to be the case. But just in case…
+The PwC IAS Global Technology Leader (GTL) will review any such cases that may breach the intent of this agreement.  During this review period, all access rights to the repositories by the offending territory will be suspended. The GTL will contact the lead territory partner to resolve the issue. If no resolution can be agreed, the matter will be elevated to the PwC IAS Global Leadership Team for final resolution. 
+
+Global Repositories
+
+Global Repositories are read-only to aid territory integration efforts with strategic global shared solutions while preventing network fragmentation. A Repository can be transitioned to a Global Repository at the discretion of the PwC IAS Global Leadership Team upon recommendation by the IAS Global Technology Leader.
+Acceptance
